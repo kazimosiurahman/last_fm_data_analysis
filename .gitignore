@@ -1,0 +1,14 @@
+# Ignore jupyter checkpoints
+.ipynb_checkpoints/*
+
+# Ignore the dataset folder
+lastfm-dataset-1K/*
+
+# Ignore output datasets
+output/*.tsv
+test_output/*.tsv
+test_output/.ipynb_checkpoints
+
+.idea/*
+.vscode/*
+.DS_Store
